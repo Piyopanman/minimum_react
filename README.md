@@ -11,3 +11,4 @@ create-react-app なしの TS + React の雛形
 - [PATH を通すとは](https://qiita.com/soarflat/items/09be6ab9cd91d366bf71)
 - [PATH を通すために環境変数の設定を理解する](https://qiita.com/soarflat/items/d5015bec37f8a8254380)
 - [npm 入門](https://qiita.com/maitake9116/items/7825d90c09f3e2f87dea)
+- [Prettier 入門 ～ ESLint との違いを理解して併用する～](https://qiita.com/soarflat/items/06377f3b96964964a65d)
